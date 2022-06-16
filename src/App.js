@@ -1,5 +1,6 @@
 import logo from "./logo.svg";
-import "./App.css";
+import "./style/main.scss";
+import React from "react";
 import Landing from "./pages/landing";
 
 function App() {
